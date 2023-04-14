@@ -1,0 +1,6 @@
+{
+    "todo_list": {
+        "prompt": "This is a todo list app.",
+        "state": "\n\n{\n   \"todos\":[\n      {\n         \"title\":\"JKASDJHSDKJHF\",\n         \"completed\":false\n      },\n      {\n         \"title\":\"JASDFHJKSDHF\",\n         \"completed\":false\n      },\n      {\n         \"title\":\"SJDHFKJSHF\",\n         \"completed\":false\n      },\n      {\n         \"title\":\"KSDJ\",\n         \"completed\":false\n      },\n      {\n         \"title\":\"KDJSHF\",\n         \"completed\":false\n      }\n   ]\n}"
+    }
+}
